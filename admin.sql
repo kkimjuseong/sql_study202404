@@ -1,6 +1,0 @@
-
-
-
-
-
-select sysdate from dual;
